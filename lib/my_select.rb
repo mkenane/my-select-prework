@@ -5,4 +5,5 @@ while i < collection.length
 newcollection.push(yield(collection[i]))
 i += 1 
 end 
+newcollection
 end
